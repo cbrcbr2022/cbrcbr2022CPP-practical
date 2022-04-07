@@ -1,0 +1,25 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(全局区.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  01全局区.cpp
+D:\C++\内存4区\全局区\01全局区.cpp(25,52): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\C++\内存4区\全局区\01全局区.cpp(25,52): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+D:\C++\内存4区\全局区\01全局区.cpp(26,52): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\C++\内存4区\全局区\01全局区.cpp(26,52): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+D:\C++\内存4区\全局区\01全局区.cpp(28,56): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\C++\内存4区\全局区\01全局区.cpp(28,56): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+D:\C++\内存4区\全局区\01全局区.cpp(29,56): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\C++\内存4区\全局区\01全局区.cpp(29,56): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+D:\C++\内存4区\全局区\01全局区.cpp(35,56): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\C++\内存4区\全局区\01全局区.cpp(35,56): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+D:\C++\内存4区\全局区\01全局区.cpp(36,56): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\C++\内存4区\全局区\01全局区.cpp(36,56): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+D:\C++\内存4区\全局区\01全局区.cpp(40,64): warning C4311: “类型强制转换”: 从“const char (*)[12]”到“int”的指针截断
+D:\C++\内存4区\全局区\01全局区.cpp(40,64): warning C4302: “类型强制转换”: 从“const char (*)[12]”到“int”截断
+D:\C++\内存4区\全局区\01全局区.cpp(45,59): warning C4311: “类型强制转换”: 从“const int *”到“int”的指针截断
+D:\C++\内存4区\全局区\01全局区.cpp(45,59): warning C4302: “类型强制转换”: 从“const int *”到“int”截断
+D:\C++\内存4区\全局区\01全局区.cpp(46,59): warning C4311: “类型强制转换”: 从“const int *”到“int”的指针截断
+D:\C++\内存4区\全局区\01全局区.cpp(46,59): warning C4302: “类型强制转换”: 从“const int *”到“int”截断
+D:\C++\内存4区\全局区\01全局区.cpp(51,59): warning C4311: “类型强制转换”: 从“const int *”到“int”的指针截断
+D:\C++\内存4区\全局区\01全局区.cpp(51,59): warning C4302: “类型强制转换”: 从“const int *”到“int”截断
+D:\C++\内存4区\全局区\01全局区.cpp(52,59): warning C4311: “类型强制转换”: 从“const int *”到“int”的指针截断
+D:\C++\内存4区\全局区\01全局区.cpp(52,59): warning C4302: “类型强制转换”: 从“const int *”到“int”截断
+  全局区.vcxproj -> D:\C++\内存4区\x64\Debug\内存四区.exe
