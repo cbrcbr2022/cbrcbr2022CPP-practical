@@ -5,21 +5,21 @@ using namespace std;
 class Circle
 {
 public:
-//ÉèÖÃ°ë¾¶£»
+//è®¾ç½®åŠå¾„ï¼›
 void setR(int r);
 	
-//»ñÈ¡°ë¾¶£»
+//è·å–åŠå¾„ï¼›
 int getR();
 	
-//ÉèÖÃÔ²ĞÄ£»
+//è®¾ç½®åœ†å¿ƒï¼›
 void setCenter(Point center);
 
-	//»ñÈ¡Ô²ĞÄ£»
+	//è·å–åœ†å¿ƒï¼›
 	Point  getCenter();
 	
 private:
-	int m_R;//°ë¾¶
+	int m_R;//åŠå¾„
 
-	//ÔÚÀàÖĞ¿ÉÒÔÈÃÁíÒ»¸öÀà ×÷Îª±¾À´ÖĞµÄ³ÉÔ±
-	Point m_Center;//Ô²ĞÄ
+	//åœ¨ç±»ä¸­å¯ä»¥è®©å¦ä¸€ä¸ªç±» ä½œä¸ºæœ¬æ¥ä¸­çš„æˆå‘˜
+	Point m_Center;//åœ†å¿ƒ
 };
