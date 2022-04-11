@@ -1,22 +1,22 @@
 
 #include"circle.h"
 
-	//���ð뾶��
+	//ÉèÖÃ°ë¾¶£»
 	void Circle::setR(int r)
 	{
 		m_R = r;
 	}
-	//��ȡ�뾶��
+	//»ñÈ¡°ë¾¶£»
 	int  Circle::getR()
 	{
 		return m_R;
 	}
-	//����Բ�ģ�
+	//ÉèÖÃÔ²ÐÄ£»
 	void  Circle::setCenter(Point center)
 	{
 		m_Center = center;
 	}
-	//��ȡԲ�ģ�
+	//»ñÈ¡Ô²ÐÄ£»
 	Point   Circle::getCenter()
 	{
 		return m_Center;
