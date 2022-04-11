@@ -5,16 +5,16 @@ using namespace std;
 class Point
 {
 public:
-//设置x
+//脡猫脰脙x
 void setX(int x);
 
-//获取x
+//禄帽脠隆x
 int getX();
 
-//设置y
+//脡猫脰脙y
 void setY(int y);
 
-//获取y
+//禄帽脠隆y
 int getY();
 
 private:
